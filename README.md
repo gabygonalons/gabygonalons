@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi!!! 👋 Bienvenidos a mi espacio digital!!
 
-<!--
-**gabygonalons/gabygonalons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://i.ibb.co/4fj7zWq/Encabezado-CV-3.png">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# - 🔭 Actualmente me desempeño como Docente.
+# - 🌱 Me estoy perfeccionando en Ciencias de Datos.
+# - 👯 Busco trabajo remoto como Analista de Datos.
+# - 🤔 Espero poder ayudar a las empresas a mejorar la Gestión de la Información y el Conocimiento.
+# - 💬 Pueden consultarme lo que deseen saber
+# - 📫 How to reach me: gabygonialons@gmail.com
+# - 😄 Estoy contenta de poder compartir mis conocimientos
+# - ⚡ Espero que les guste este espacio que lentamente empiezo a construir hoy.
+#**Bye!!!**
 -->
