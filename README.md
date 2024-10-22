@@ -1,8 +1,8 @@
-# Hi!!! 👋 Bienvenidos a mi espacio digital!!
+# Hi!!! 👋 Bienvenidos a mi espacio!!
 
 <img src="https://i.ibb.co/4fj7zWq/Encabezado-CV-3.png">
 
-## - 🔭 Actualmente me desempeño como Docente.
+## - 🔭 Actualmente me desempeño como Docente en Nivel Superior No Universitario.
 ## - 🌱 Me estoy perfeccionando en Ciencias de Datos.
 ## - 👯 Busco trabajo remoto como Analista de Datos.
 ## - 🤔 Espero poder ayudar a las empresas a mejorar la Gestión de la Información y el Conocimiento.
